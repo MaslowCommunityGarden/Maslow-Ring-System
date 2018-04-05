@@ -24,3 +24,7 @@ A number of solutions have been proposed where the chains attach to something wh
 The proposed solutions include using large bearings, linkages which when moved move in an arc around the router bit, and this solution where small bearings run along a ring.
 
 The files are free to use with no restrictions on personal or commercial use.
+
+### How the ring looks installed:
+
+![how the ring looks installed](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-Ring-System/master/Ring%20Installed.jpg)
