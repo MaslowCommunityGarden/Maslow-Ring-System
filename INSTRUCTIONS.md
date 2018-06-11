@@ -6,7 +6,7 @@ This process is largely the same regardless of which frame design you build, so 
 
 If you have not already done so, cut the following shapes from a sheet of plywood. The dimensions of these parts are not critical, and you can cut them by hand.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Plywood%20Cut%20Dimensions.PNG)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Plywood%20Cut%20Dimensions.PNG)
 
 ### Step 2: Add holes
 
@@ -16,7 +16,7 @@ Using your router, route out an approximately 1.5" by 1.5" hole in the center of
 
 Then place the two brick holders in the lower corners of the sled and drill through them using a 1/4 inch drill bit (7mm).
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Sled%20with%20holes.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Sled%20with%20holes.jpg)
 
 ### Step 3: Attach router
 
@@ -28,27 +28,27 @@ Remove the router base plate, and attach the router to the sled using the same b
 
 The base of the router can be used as a template to drill holes for the router mounting bolts.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Using%20baseplate%20as%20a%20template%20to%20drill%20holes.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Using%20baseplate%20as%20a%20template%20to%20drill%20holes.jpg)
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Router%20attached.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Router%20attached.jpg)
 
 ### Step 4: Attach the ring and bricks
 
 Attach the two bricks using the bolts and nuts provided and the two wooden brick retainers.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Bricks%20attached.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Bricks%20attached.jpg)
 
 Attach the ring to the sled. The ring attaches using the three adjustable 'L' brackets, the small wood screws, and the small nuts and bolts shown below.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Ring%20parts.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Ring%20parts.jpg)
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Ring%20hardware.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Ring%20hardware.jpg)
 
 First, attach the 'L' brackets to the ring using the small nuts and bolts, then attach the ring to the sled using the wood screws such that the ring is concentric around the router. 
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Ring%20floating.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Ring%20floating.jpg)
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Ring%20bolted%20down.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Ring%20bolted%20down.jpg)
 
 For now do your best to make the ring concentric around the router, on the final sled we will use alignment marks to dial the placement in.
 
@@ -58,22 +58,22 @@ Note that the 'L' brackets are designed to let you move the ring up and down to 
 
 Now we need to assemble and attach the carriages to the ring. To do this we will need the shoulder bolts, bearings, washers, and nuts.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Carriage%20hardware.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Carriage%20hardware.jpg)
 
 The completed assembly will have the shoulder bolt sandwiching the washers on either side of the bearing. You should be able to tighten the nut down snugly and still have the bearing rotate freely. If the bearing does not rotate freely, check that the shoulder bolt has not become caught on one of the washers.
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Close%20up%20of%20carriage%20stack.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Close%20up%20of%20carriage%20stack.jpg)
 
 Assemble one carriage on either side of the ring.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Carriages%20on%20ring.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Carriages%20on%20ring.jpg)
 
 ### Step 6: Attach sled to frame
 
 Next, we are ready to hang the sled on the machine! To attach the sled to the machine pass the free end of each chain through the hole in the end of each carriage and secure it with a cotter pin.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Close%20up%20of%20chain%20attaching.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Close%20up%20of%20chain%20attaching.jpg)
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Overview%20of%20chain%20attaching.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Overview%20of%20chain%20attaching.jpg)
 
 ### Step 7: Calibrate
 
@@ -81,7 +81,7 @@ Now it's time to calibrate the machine. Because each machine is built by hand a 
 
 To calibrate the machine launch Ground Control, then click **Action -> Calibrate**
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Clicking%20the%20calibrate%20button.PNG)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Clicking%20the%20calibrate%20button.PNG)
 
 ### Step 8: Generate Gcode
 
@@ -99,7 +99,7 @@ Open the gcode file in Ground Control by clicking **Actions -> Open File** and t
 
 Keep in mind that you can move the gcode file around on your 4x8 sheet by moving the router to the desired starting point and pressing the "Define Home" button.
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Cutting%20the%20sled%20in%20GC.PNG)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Cutting%20the%20sled%20in%20GC.PNG)
 
 ### Step 10: Re-attach the hardware
 
@@ -109,7 +109,7 @@ Note that the final sled has alignment holes to accurately position the ring and
 
 Instructions to install the z-axis if you have one can be found [here](https://github.com/MaslowCNC/Mechanics/wiki/How-To-Assemble-The-Z-Axis)
 
-![](https://raw.githubusercontent.com/MaslowCommunityGarden/Default-Sled-Design/master/Cutting%20The%20Sled/Use%20alignment%20holes%20to%20position%20ring.jpg)
+![](https://github.com/MaslowCommunityGarden/Maslow-Ring-System/blob/master/Cutting%20The%20Sled/Use%20alignment%20holes%20to%20position%20ring.jpg)
 
 ### Step 11: Round over edge
 
