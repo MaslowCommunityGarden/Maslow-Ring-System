@@ -85,9 +85,7 @@ To calibrate the machine launch Ground Control, then click **Action -> Calibrate
 
 ### Step 8: Generate Gcode
 
-Next, we need to generate the gcode file which Maslow will use to cut the parts. The design files for the sled can be downloaded [here](https://github.com/MaslowCNC/Mechanics/blob/master/SVG%20Files/SledFiles.zip), if you already have a preferred piece of software to generate gcode files.
-
-If you don't have a favorite piece of software already there are step by step instructions to use the free online MakerCAM program [here](https://github.com/MaslowCNC/Mechanics/wiki/Generating-Gcode-Using-MakerCAM).
+Next, we need to generate the gcode file which Maslow will use to cut the parts. The design files for the sled can be downloaded under the "files" tab on this page. If you already have a preferred piece of software to generate gcode files feel free to use it, if not there are step by step instructions to use the free online MakerCAM program [here](https://github.com/MaslowCNC/Mechanics/wiki/Generating-Gcode-Using-MakerCAM).
 
 A video describing how to use the free online Easel software is available [here](https://vimeo.com/253064466).
 
