@@ -61,6 +61,7 @@ Now we need to assemble and attach the carriages to the ring. To do this we will
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-Ring-System/master/Cutting%20The%20Sled/Carriage%20hardware.jpg)
 
 The completed assembly will have the shoulder bolt sandwiching the washers on either side of the bearing. You should be able to tighten the nut down snugly and still have the bearing rotate freely. If the bearing does not rotate freely, check that the shoulder bolt has not become caught on one of the washers.
+
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-Ring-System/master/Cutting%20The%20Sled/Close%20up%20of%20carriage%20stack.jpg)
 
 Assemble one carriage on either side of the ring.
