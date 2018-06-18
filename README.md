@@ -1,4 +1,4 @@
-# Maslow Ring System
+# Maslow Ring System Sled
 
 The design files for the Maslow ring system
 
