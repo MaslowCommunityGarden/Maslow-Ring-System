@@ -115,3 +115,5 @@ Instructions to install the z-axis if you have one can be found [here](https://g
 Your sled will slide across the work area much more smoothly with a rounded edge. This can be done using either a round-over bit or some sandpaper.
 
 When your sled is finished re-attach it to the machine and you are ready to start making things!
+
+Note: A quick sanding of the inside edge of the ring can smooth out the protective coating over the metal and help the bearings to move more smoothly
