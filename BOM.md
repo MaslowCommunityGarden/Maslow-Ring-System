@@ -1,6 +1,4 @@
-## You can purchase the ring kit from the Maslow CNC store [here](http://www.maslowcnc.com/store/maslow-cnc-ring-system-kit)
-
-The parts included are:
+The BOM:
 
 |  Part                |   Number   |    Part #   |
 |:--------------------:|:----------:|:-----------:|
