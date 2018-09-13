@@ -70,7 +70,8 @@ Assemble one carriage on either side of the ring.
 
 ### Step 6: Attach sled to frame
 
-Next, we are ready to hang the sled on the machine! To attach the sled to the machine pass the free end of each chain through the hole in the end of each carriage and secure it with a cotter pin.
+Next, we are ready to hang the sled on the machine! To attach the sled to the machine pass the free end of each chain through the hole in the end of each carriage and secure it with a cotter pin. * Please note depending on your chain there may an untrapped end around the last link of chain, in this case it is safest to use a link the is surrounded by another (or go 1 link farther back from the end) to place the cotter pin.  Unsurounded links may spread causing the link to fail and the sled to drop suddenly.
+
 
 ![](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-Ring-System/master/Cutting%20The%20Sled/Close%20up%20of%20chain%20attaching.jpg)
 
